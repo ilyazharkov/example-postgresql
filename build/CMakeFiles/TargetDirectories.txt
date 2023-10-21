@@ -1,0 +1,6 @@
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/example-postgresql-lib.dir
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/example-postgresql-exe.dir
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/example-postgresql-test.dir
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/test.dir
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/edit_cache.dir
+/home/admin/VSCode/oatpp/example-postgresql/build/CMakeFiles/rebuild_cache.dir
